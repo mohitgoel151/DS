@@ -1,0 +1,6 @@
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\bin\Debug\SaveMoreBacktracking.exe.config
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\obj\Debug\SaveMoreBacktracking.csprojResolveAssemblyReference.cache
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\bin\Debug\SaveMoreBacktracking.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\bin\Debug\SaveMoreBacktracking.pdb
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\obj\Debug\SaveMoreBacktracking.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\SaveMoreBacktracking\obj\Debug\SaveMoreBacktracking.pdb

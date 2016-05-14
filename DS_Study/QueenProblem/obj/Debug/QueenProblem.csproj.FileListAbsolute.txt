@@ -1,0 +1,6 @@
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\bin\Debug\QueenProblem.exe.config
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\bin\Debug\QueenProblem.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\bin\Debug\QueenProblem.pdb
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\obj\Debug\QueenProblem.csprojResolveAssemblyReference.cache
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\obj\Debug\QueenProblem.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\QueenProblem\obj\Debug\QueenProblem.pdb

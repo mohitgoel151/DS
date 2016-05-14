@@ -1,0 +1,5 @@
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\HuffmanCoding\bin\Debug\HuffmanCoding.exe.config
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\HuffmanCoding\bin\Debug\HuffmanCoding.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\HuffmanCoding\bin\Debug\HuffmanCoding.pdb
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\HuffmanCoding\obj\Debug\HuffmanCoding.exe
+C:\Users\latitude\Documents\Visual Studio 2013\Projects\DS_Study\HuffmanCoding\obj\Debug\HuffmanCoding.pdb

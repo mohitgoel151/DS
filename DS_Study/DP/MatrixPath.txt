@@ -1,0 +1,27 @@
+﻿Count all possible paths from top left to bottom right of a mXn matrix
+
+ Case1)  from each cell you can either move only to right or down
+ Case2)  from each cell you can either move only to right or down or diagonal down_right
+
+
+
+ ///////////////////////// Case 1   ////////////////////
+ // Count of paths to reach any cell in first column is 1
+    for (int i = 0; i < m; i++)
+        count[i][0] = 1;
+ 
+    // Count of paths to reach any cell in first row is 1
+    for (int j = 0; j < n; j++)
+        count[0][j] = 1;
+ 
+    for (int i = 1; i < m; i++)
+    {
+        for (int j = 1; j < n; j++)
+            count[i][j] = count[i-1][j] + count[i][j-1]; 
+    }
+    return count[m-1][n-1];
+
+	////////////////// CASE 2 //////////////////
+
+	if diagonal movement is allowed then
+	count[i][j] = count[i-1][j] + count[i][j-1] + count[i-1][j-1];

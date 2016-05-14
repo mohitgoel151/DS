@@ -1,0 +1,6 @@
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\bin\Debug\Trie.exe.config
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\bin\Debug\Trie.exe
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\bin\Debug\Trie.pdb
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\obj\Debug\Trie.exe
+c:\Users\latitude\documents\visual studio 2013\Projects\DS_Study\Trie\obj\Debug\Trie.pdb
