@@ -1,2 +1,11 @@
 1) String:
 1.1) Find the smallest window in a string containing all characters of another string  (http://ideone.com/1gkxSU)
+
+
+2) Backtracking
+2.1) http://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/
+
+
+
+3) Cache
+3.1) http://www.programcreek.com/2013/03/leetcode-lru-cache-java/

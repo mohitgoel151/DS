@@ -6,6 +6,14 @@ public class TreeNode {
     private TreeNode left;
     private TreeNode right;
     
+    private int value;
+    
+    public int getValue() {
+        return value;
+    }
+    public void setValue(int value) {
+        this.value = value;
+    }
     public String getId() {
         return id;
     }
