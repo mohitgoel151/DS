@@ -5,7 +5,7 @@ public class Huffman {
     public HuffmanPQueue aQueue = new HuffmanPQueue();
     int[] frequencyArray = new int[26];
 
-    // IMp ref to checK http://huffman.ooz.ie/
+    // Imp ref to checK http://huffman.ooz.ie/
 
     public Huffman() {
         aQueue.Add(new HuffmanNode('d', 5, null, null));
@@ -30,8 +30,7 @@ public class Huffman {
 
         for (int i = 0; i < 26; i++) {
             if (0 != frequencyArray[i]) {
-                aQueue.Add(new HuffmanNode((char) (i + 97), frequencyArray[i],
-                        null, null));
+                aQueue.Add(new HuffmanNode((char) (i + 97), frequencyArray[i], null, null));
             }
         }
 
@@ -44,8 +43,7 @@ public class Huffman {
             HuffmanNode right = aQueue.RemoveMin();
 
             if (right != null) {
-                aQueue.Add(new HuffmanNode('\0', left.frequency
-                        + right.frequency, left, right));
+                aQueue.Add(new HuffmanNode('\0', left.frequency + right.frequency, left, right));
             } else {
                 aQueue.Add(new HuffmanNode('\0', left.frequency, left, right));
             }

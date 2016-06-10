@@ -42,7 +42,6 @@ namespace Tree
                     return MinOftree(node.right);
                 }
                 else
-                //Without parent Node
                 
      //            struct node *succ = NULL;
  

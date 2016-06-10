@@ -1,6 +1,5 @@
 package com.mohit.linkedlist;
 
-import javax.sound.sampled.ReverbType;
 
 public class LinkedListReverse {
 
@@ -18,9 +17,11 @@ public class LinkedListReverse {
     
     private LinkedListNode withRecusion(LinkedListNode head) {
         
-        if (head == null) return head; // first question
+        if (head == null) 
+            return head; // first question
 
-        if (head.getNext() == null) return head;
+        if (head.getNext() == null) 
+            return head;
         
         LinkedListNode remaining = head.getNext();
         head.setNext(null);
@@ -33,11 +34,14 @@ public class LinkedListReverse {
     
     private LinkedListNode withoutRecusion(LinkedListNode head) {
         
-        if (head == null) return head; // first question
-        if (head.getNext() == null) return head;
+        if (head == null) 
+            return head; // first question
+        
+        if (head.getNext() == null) 
+            return head;
         
         LinkedListNode curr = head;
-        LinkedListNode next = head.getNext();
+        LinkedListNode next = null;
         LinkedListNode prv = null;
         
         while(curr != null) {
